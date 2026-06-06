@@ -256,7 +256,7 @@ Car_sales
 
 | 文件 | 说明 |
 |------|------|
-| [analysis.ipynb](notebooks/analysis.ipynb) | 完整分析流程（64 个 Cell，含数据审计、EDA、特征工程、RFE、迭代预测） |
+| [analysis.ipynb](notebooks/analysis.ipynb) | 完整分析流程（64 个 Cell，含数据审计、EDA、特征工程、RFE、迭代预测） （需下载）|
 | [sub.csv](sub.csv) | 最终预测结果（id, forecastVolum），共 12,496 条 |
 | [charts/](charts/) | 24 张分析图表（销量分布、搜索相关性、省份趋势、特征选择等） |
 
